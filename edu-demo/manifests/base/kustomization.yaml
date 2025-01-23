@@ -1,4 +1,5 @@
 resources:
+  - configmap.yaml
   - edu-namespace.yaml
   - edu-user/edu-user-deployment.yaml
   - edu-goods/edu-goods-deployment.yaml
