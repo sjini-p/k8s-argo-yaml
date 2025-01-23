@@ -1,0 +1,9 @@
+resources:
+  - edu-namespace.yaml
+  - edu-user/edu-user-deployment.yaml
+  - edu-goods/edu-goods-deployment.yaml
+  - edu-user/edu-user-hpa.yaml
+  - edu-goods/edu-goods-hpa.yaml
+  - edu-user/edu-user-service.yaml
+  - edu-goods/edu-goods-service.yaml
+  - edu-ingress.yaml
