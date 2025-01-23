@@ -1,7 +1,7 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
-- name: ghcr.io/wlgns5376/example-app
+- name: sjin2pio/k8s-edu
   newTag: dev
 resources:
 - ../../base
